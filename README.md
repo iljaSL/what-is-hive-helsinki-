@@ -11,7 +11,7 @@ The   42  program  is  a  college-level  software  engineering  or  coding  prog
 The  heart  of  42  is  code.  Software  development  is  the  driving  engine  of  all  digital  activity.  Students  develop  fundamental  technical  competencies which gives them indispensable adaptability skills necessary for integration into the digital workforce. These technical competencies  ultimately  allow  students  to  comprehend  any  programming  language  and  develop  his  or  her  own  understanding  of  programming paradigms.Students control what they learn, when they learn, and how they learn with the 42 program. They learn at their own pace and can pursue the following main branches of our curriculum: design/web/graphics, algorithms, system programming, mobile development, security or networks.
 
 <h5 align="center">The holy graph. A current picture of my succeeded projects.
-         <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/holygraph.png" width="1600" height="900"/>
+         <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/holygraph.png" width="1400" height="900"/>
 </h5>
 
 <h3>Topics covered in depth include:</h3>
