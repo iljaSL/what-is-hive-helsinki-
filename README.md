@@ -11,7 +11,7 @@ The   42  program  is  a  college-level  software  engineering  or  coding  prog
 The  heart  of  42  is  code.  Software  development  is  the  driving  engine  of  all  digital  activity.  Students  develop  fundamental  technical  competencies which gives them indispensable adaptability skills necessary for integration into the digital workforce. These technical competencies  ultimately  allow  students  to  comprehend  any  programming  language  and  develop  his  or  her  own  understanding  of  programming paradigms.Students control what they learn, when they learn, and how they learn with the 42 program. They learn at their own pace and can pursue the following main branches of our curriculum: design/web/graphics, algorithms, system programming, mobile development, security or networks.
 
 <h5 align="center">The holy graph. A current picture of my succeeded projects.
-         <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/holygraph.png" width="1400" height="900"/>
+         <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/holygraph.png" width="auto" height="auto"/>
 </h5>
 
 <h3>Topics covered in depth include:</h3>
@@ -34,7 +34,7 @@ A company’s capacity to innovate is a fundamental factor in today’s digital 
 Rather than a series of languages and specific technologies, 42’s program follows a logical sequence of 17 long-lasting skills. These skills also have the same fundamental element:  personal  adaptability,  learning,  coping  and  solving  new  challenges  that  they will inevitably face regularly. Even if it has a few obligatory paths, 42’s program is individually tailored throughout.
 
 <h5 align="center">My current skill tree
-         <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/skilltree.png" width="900" height="700"/>
+         <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/skilltree.png" width="auto" height="auto"/>
 </h5>
 
 <h4>Visit the website of Hive Helsinki for more information! -> https://www.hive.fi/en/</h4>
